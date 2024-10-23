@@ -25,8 +25,3 @@ cd jotsy && sudo docker pull ohsayan/jotsy:latest && sudo docker-compose up -d
 ```
 
 This will pull the latest Jotsy image, stop the existing instance, rebuild the container and start it up again.
-
-
-## Contributing
-
-As highlighted in the original blog post, please create issues for any ideas you have; I want to hear them! Want to collaborate (would love some frontend wizard for some help :P)? Shoot me a [DM on Twitter](https://twitter.com/ohhsayan).
